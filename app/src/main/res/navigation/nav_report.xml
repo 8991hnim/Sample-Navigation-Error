@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/reportFragment"
-        android:name="m.tech.samplebottomnaverror.ReportFragment"
+        android:name="m.tech.samplebottomnaverror.fragment.ReportFragment"
         android:label="ReportFragment" />
 </navigation>
