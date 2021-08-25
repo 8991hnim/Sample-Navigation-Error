@@ -3,7 +3,7 @@ package m.tech.samplebottomnaverror.nav_host
 import androidx.navigation.fragment.NavHostFragment
 import dagger.hilt.android.AndroidEntryPoint
 
-@AndroidEntryPoint
+@AndroidEntryPoint //this line causes error
 class MainNavHostFragment : NavHostFragment() {
     /**
      * I'm using custom fragment factory
